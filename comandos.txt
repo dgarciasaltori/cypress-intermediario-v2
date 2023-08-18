@@ -1,0 +1,9 @@
+npx cypress open (modo grafico)
+
+npx cypress run (headless)
+
+npx cypress run --spec cypress/e2e/gui/login.cy.js
+
+npx cypress run --spec cypress/e2e/gui/logout.cy.js
+
+npx cypress run --spec cypress/e2e/gui/createProject.cy.js
